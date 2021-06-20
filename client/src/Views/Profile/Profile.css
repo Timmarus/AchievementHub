@@ -1,0 +1,85 @@
+.profileContainer {
+    display: block;
+    margin: auto;
+    width: auto;
+    text-align: center;
+    margin-bottom: 4vh;
+}
+
+.bigProfileAvatar {
+    height: 23vh;
+    width: 23vh;
+    margin-top: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.bigName {
+    font-size: 3.5vh;
+    margin-top: 1vh;
+    margin-bottom: 0vh;
+}
+
+.usernameText {
+    font-size: 2.7vh;
+    margin: 0vh;
+    margin-bottom: 1vh;
+}
+
+.mediumText {
+    font-size: 2.7vh;
+    margin: 0vh;
+    margin-right: 1vh;
+    margin-bottom: 1vh;
+    display: inline-block;
+}
+
+.subContainer {
+    width: 30%;
+    float: block;
+}
+
+.groupContainer {
+    display: block;
+}
+
+.inputField {
+    margin-bottom: 2vh;
+    left: 45%;
+    position: relative;
+}
+
+.joinedLabel {
+    margin-bottom: 2vh;
+    left: 50%;
+    position: relative;
+    max-width: 45%;
+}
+
+.saveButton {
+    left: 50%;
+    position: relative;
+}
+
+.subContainerHeader {
+    display: block;
+    text-align: center;
+}
+
+.generalInfoForm {
+    display: block;
+    float: left;
+}
+
+.profileDetails {
+    width: 50vh;
+}
+
+.profileButton {
+    color: #fff !important;
+}
+
+.fail {
+    border: 2px solid red !important;
+}

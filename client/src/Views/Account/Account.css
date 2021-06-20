@@ -1,0 +1,22 @@
+
+.accountChangeUser {
+    margin-bottom: 3vh;
+}
+
+.accountChangePassword {
+    margin-bottom: 3vh;
+}
+
+.accountDeleteUser {
+    margin-bottom: 3vh;
+}
+
+.accountTextField:hover {
+}
+
+.accountButton:hover {
+    color: green;
+}
+.accountDangerButton:hover {
+    color:red;
+}

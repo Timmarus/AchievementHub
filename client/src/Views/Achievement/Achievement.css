@@ -1,0 +1,68 @@
+.achievementContainer {
+    padding: 0 0 2vh 0;
+}
+
+.achievementInfoContainer {
+    margin-left: 24vw;
+    margin-right: 20vw;
+    padding-top: 2vh;
+    text-align: left;
+    width: 72%;
+
+}
+
+.achievementInfoSubContainer {
+    padding: 2vh 1vw 2vh 1vw;
+}
+
+.achievementCoinsContainer {
+ background-color: #c4c4c4;    
+}
+
+.achievementPlatform {
+    width: 3vw;
+    height: 3vw;
+    float: left;
+    padding-top: 0.5vw;
+    padding-left: 0.5vw;
+}
+
+.achievementGame {
+    height: 5vw;
+    width: 5vw;
+}
+
+.achievementUser {
+    height: 5vw;
+    width: 5vw;
+}
+
+.achievementHubIcon {
+    height: 6vw;
+    width: 6vw;
+}
+
+.achievementCoin {
+    height: 3vw;
+    width: 3vw;
+    display: inline;
+    
+}
+
+.achievementAchievementText{
+    font-size: 2vw;
+}
+
+.achievementGameName{
+    font-size: 1.5vw;
+}
+
+.achievementDate{
+    font-size: 1.5vw;
+}
+
+.achievementCoinsEarned{
+    font-size: 2.5vw;
+    display: inline;
+    color: #ffee00;
+}

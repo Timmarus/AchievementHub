@@ -1,0 +1,13 @@
+/* Manage Group */
+.groupHeader {
+    font-size: 3.5vh;
+    margin-top: 1.5vh;
+    margin-bottom: 1vh;
+    margin-left: 2vh;
+    text-align: left;
+}
+
+.groupList {
+    margin-left: 20vw;
+    margin-right: 2vw;
+}

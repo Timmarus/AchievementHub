@@ -1,0 +1,28 @@
+
+
+.adminCreateUser {
+    margin-bottom: 3vh;
+}
+
+
+
+.adminChangeUsername {
+    margin-bottom: 3vh;
+}
+
+
+
+
+.adminDeleteUser {
+    margin-bottom: 3vh;
+}
+
+.adminTextField:hover {
+}
+
+.adminButton:hover {
+    color: green;
+}
+.adminDangerButton:hover {
+    color:red;
+}

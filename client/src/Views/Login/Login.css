@@ -1,0 +1,26 @@
+.loginInputField {
+    margin-bottom: 20px;
+}
+
+.login__card {
+	background-color: #9CF6F6;
+}
+
+.loginTextField {
+    width: 50ch;
+}
+
+.title {
+    font-size: 3.5vh;
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+
+}
+
+.loginContainer {
+    margin: 2vh;
+}
+
+.fail {
+    border: 2px solid red !important;
+}

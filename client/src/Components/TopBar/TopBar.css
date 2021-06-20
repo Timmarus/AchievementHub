@@ -1,0 +1,76 @@
+.Bar {
+    background-color: #6e94f7;
+    height: 8vh;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    top: 0;
+}
+
+.leftCornerLogo {
+    height: 8vh;
+    float: left;
+}
+
+.achievementHubText {
+    font-size: 5vh;
+    margin: 5px;
+    float: left;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+
+.profileAvatar {
+    height: 8vh;
+    float: right;
+    margin: 10px;
+}
+
+.name {
+    font-size: 3vh;
+    float: right;
+    margin-top: 13px;
+    margin-right: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+.addButton {
+    display: inline-block;
+    float: right;
+}
+
+
+.MuiMenu-paper {
+	box-shadow: none;
+}
+	
+.dropdownMenuPaper {
+	background-color: transparent !important;
+	border: 1px solid black;
+	box-shadow: none;
+}
+
+.dropdownMenuList {
+	background-color: rgba(110,148,247,0.95) !important;
+	border: 2px;
+}
+
+.dropdownMenuItem a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: black;
+}
+
+.dropdownMenuDashboardLink {
+	text-align: center !important;
+	text-decoration: none;
+	color: black;
+	justify-content: center !important;
+
+}
+
+.dropdownAvatar {
+    margin: auto;
+	height: 8vh;
+}

@@ -1,0 +1,31 @@
+.platformPicture {
+    height: 6vh;
+    width: 6vh;
+    float: left;
+}
+
+.platformBox {
+    display: block;
+    margin: 1.5vh;
+    float: left;
+    width: 100%;
+}
+
+.platformText {
+    font-size: 2.7vh;
+    margin: 0vh;
+    margin-right: 1vh;
+    margin-left: 1vh;
+    margin-bottom: 1vh;
+    float: left;
+    line-height: 6vh;
+}
+
+.platformButton {
+    float: right;
+    display: block;
+    margin: 1.5vh;
+    align: center;
+    height: 6vh;
+    width: 8vh;
+}

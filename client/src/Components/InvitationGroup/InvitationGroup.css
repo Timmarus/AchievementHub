@@ -1,0 +1,15 @@
+/* --------  InvitationGroup component --------  */
+.inviteDeclineButton {
+    float: right;
+    width: 2vh;
+    height: 3vh;
+    bottom: -5.5vh;
+}
+
+.inviteAcceptButton {
+    float: right;
+    width: 2vh;
+    right: 3vh;
+    height: 3vh;
+    bottom: -5.5vh;
+}

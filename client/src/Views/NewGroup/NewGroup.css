@@ -1,0 +1,21 @@
+.uploadBlock {
+    width: 500px;
+    background: blue;
+    display: inline-block;
+}
+
+.findButton {
+    display: inline-block;
+}
+
+.uploadBlock p{
+    display: inline-block;
+}
+
+.achievementDetails {
+    width: 50ch;
+}
+
+.newAchievementInputField {
+    margin-bottom: 20px;
+}

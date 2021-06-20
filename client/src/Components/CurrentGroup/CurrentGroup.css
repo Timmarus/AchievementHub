@@ -1,0 +1,50 @@
+/* CurrentGroup component */
+.currentGroupBox {
+    background-color: lightgrey;
+    margin-left: 1vh;
+    margin-bottom: 1vh;
+    height: 10vh;
+}
+
+.bigGroupPic {
+    height: 10vh;
+    float: left;
+    margin-left: 1vh;
+    margin-bottom: 1vh;
+}
+
+.currentGroupName {
+    font-size: 3.6vh;
+    margin: 0vh;
+    margin-right: 1vh;
+    margin-left: 1vh;
+    margin-bottom: 1vh;
+    float: left;
+    line-height: 10vh;
+}
+
+.bigAdminCrown {
+    width: 5vh;
+    float: right;
+    position: absolute;
+    right: 7vh;
+}
+
+.deleteGroupButton {
+    float: right;
+    bottom: -5.5vh;
+    height: 3vh;
+}
+
+.manageMembersButton {
+    float: right;
+    bottom: -5.5vh;
+    right: 3vh;
+    height: 3vh;
+}
+
+.leaveGroupButton {
+    float: right;
+    bottom: -5.5vh;
+    height: 3vh;
+}

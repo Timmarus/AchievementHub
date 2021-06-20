@@ -1,0 +1,27 @@
+/* -------------------------------------------------------Landing styles --------------------------------------------------------*/
+
+.landingContainer {
+    background-color: #0085FF;
+}
+
+.AllLandingAchievementsContainer {
+    margin-left: 24vw;
+    margin-right: 20vw;
+    padding-top: 2vh;
+    text-align: left;
+    width: 72%;
+}
+
+.AllLandingAchievementsSubContainer {
+    background-color: white;
+    padding: 2vh 1vw 2vh 1vw;
+}
+
+.loadingAchievements{
+    font-size: 4vh;
+}
+
+.groupList {
+    margin-left: 20vw;
+    margin-right: 2vw;
+}

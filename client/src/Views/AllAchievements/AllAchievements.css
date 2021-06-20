@@ -1,0 +1,191 @@
+.profileContainer {
+    display: block;
+    margin: auto;
+    width: auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.bigProfileAvatar {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.bigName {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+}
+
+.usernameText {
+    font-size: 18px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.mediumText {
+    font-size: 18px;
+    margin: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.subContainer {
+    width: 33%;
+    float: block;
+    display: inline-block;
+}
+
+.groupContainer {
+    display: block;
+}
+
+.bottomInfoContainer {
+    
+}
+
+.uploadBlock {
+    width: 500px;
+    background: blue;
+    display: inline-block;
+}
+
+.findButton {
+    display: inline-block;
+}
+
+.uploadBlock p{
+    display: inline-block;
+}
+
+.achievementDetails {
+    width: 50ch;
+}
+
+.generalInfoForm {
+    display: block;
+    float: left;
+}
+
+.subContainerHeader {
+    display: block;
+}
+
+.inputField {
+    margin-bottom: 20px;
+}
+
+/* Manage Group */
+.groupHeader {
+    font-size: 25px;
+    margin-top: 2vh;
+    margin-bottom: 0px;
+    margin-left: 2vh;
+    text-align: left;
+}
+
+/*-------- AllAchievements Styles --------  */
+.allAchievementsSteamNameIconHead {
+    padding-right: 2em;
+    vertical-align: middle;
+    height: 6em;
+    width: 6em;
+}
+
+.allAchievementsSteamNameIcon {
+    padding-right: 2em;
+    padding-top: 0em;
+    height: 6em;
+    width: 6em;
+}
+
+.allAchievementsSteamIconHeadContainer{
+    display: inline-block;
+}
+.allAchievementsSteamAchievementsListContainer {
+    background-color: #E0E0E0;
+    width: 55vw;
+    height: 25vh;
+    text-align: left;
+    display: inline-block;
+     
+}
+
+.allAchievementsListContainer {
+    margin-left: 20vw;
+    margin-top: 8vh;
+}
+
+.allAchievementsSteamAchievementsList {
+    padding-left: 2em;
+    padding-top: 2em;
+
+}
+
+.allAchievementsSteamAchievements {
+    padding-top: 3em;
+}
+
+.allAchievementsOtherIconHeadContainer{
+    display: inline-block;
+}
+
+.allAchievementsOtherNameIconHead {
+    padding-right: 2em;
+    vertical-align: middle;
+    height: 6em;
+    width: 6em;
+}
+
+.allAchievementsOtherNameIcon {
+    padding-right: 2em;
+    padding-top: 0em;
+    height: 6em;
+    width: 6em;
+    
+}
+
+.allAchievementsOtherAchievementsList {
+    padding-left: 2em;
+    padding-top: 2em;
+
+}
+
+.allAchievementsOtherAchievementsListContainer {
+    background-color: #c2c1c1;
+    width: 55vw;
+    height: 300px;
+    display: inline-block;
+    text-align: left;
+     
+}
+
+/* -------- Landing styles -------- */
+
+.landingContainer {
+    background-color: #0085FF;
+}
+
+.AllLandingAchievementsContainer {
+    margin-left: 24vw;
+    margin-right: 20vw;
+    padding-top: 2vh;
+    text-align: left;
+    width: 72%;
+}
+
+.AllLandingAchievementsSubContainer {
+    background-color: white;
+    padding: 2vh 1vw 2vh 1vw;
+}
+
+.groupList {
+    margin-left: 20vw;
+    margin-right: 2vw;
+}

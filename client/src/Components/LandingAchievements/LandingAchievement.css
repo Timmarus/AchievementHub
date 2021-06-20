@@ -1,0 +1,63 @@
+.landingAchievementContainer {
+    padding: 0 0 2vh 0;
+
+}
+
+
+.landingAchievementInfoContainer {
+    background-color: #EDEDED; 
+    text-align: center;
+    /* position: relative; */
+}
+
+.landingAchievementCoinsContainer {
+ background-color: #c4c4c4;    
+}
+
+.landingAchievementPlatform {
+    width: 3vw;
+    height: 3vw;
+    float: left;
+    padding-top: 0.5vw;
+    padding-left: 0.5vw;
+}
+
+.landingAchievementGame {
+    height: 5vw;
+    width: 5vw;
+}
+
+.landingAchievementUser {
+    height: 5vw;
+    width: 5vw;
+}
+
+.landingAchievementHubIcon {
+    height: 6vw;
+    width: 6vw;
+}
+
+.landingAchievementCoin {
+    height: 3vw;
+    width: 3vw;
+    display: inline;
+    
+}
+
+.landingAchievementAchievementText{
+    font-size: 2vw;
+}
+
+.landingAchievementGameName{
+    font-size: 1.5vw;
+}
+
+.landingAchievementDate{
+    font-size: 1.5vw;
+}
+
+.landingAchievementCoinsEarned{
+    font-size: 2.5vw;
+    display: inline;
+    color: #ffee00;
+}
